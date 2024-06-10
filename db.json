@@ -1,0 +1,46 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "product": "product a",
+      "date": "2024-06-01",
+      "sales": 150,
+      "revenue": 3000
+    },
+    {
+      "id": 2,
+      "product": "product b",
+      "date": "2024-06-02",
+      "sales": 100,
+      "revenue": 2000
+    },
+    {
+      "id": 3,
+      "product": "product c",
+      "date": "2024-06-03",
+      "sales": 50,
+      "revenue": 1000
+    },
+    {
+      "id": 4,
+      "product": "product d",
+      "date": "2024-06-04",
+      "sales": 120,
+      "revenue": 1200
+    },
+    {
+      "id": 5,
+      "product": "product e",
+      "date": "2024-06-05",
+      "sales": 80,
+      "revenue": 800
+    },
+    {
+      "id": 6,
+      "product": "product f",
+      "date": "2024-06-07",
+      "sales": 140,
+      "revenue": 900
+    }
+  ]
+}
